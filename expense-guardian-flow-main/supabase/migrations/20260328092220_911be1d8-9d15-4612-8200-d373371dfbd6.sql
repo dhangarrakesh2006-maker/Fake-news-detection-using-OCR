@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS on_expense_created ON public.expenses;
